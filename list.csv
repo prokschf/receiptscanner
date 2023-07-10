@@ -1,0 +1,80 @@
+1,🍎Apple,1.00,Walmart,2021-01-01
+2,🍊Orange,0.80,Walmart,2021-01-01
+3,🥕Carrot,0.50,Walmart,2021-01-01
+4,🍅Tomato,1.00,Walmart,2021-01-01
+5,🥔Potato,0.40,Walmart,2021-01-01
+6,🍓Strawberry,3.00,Walmart,2021-01-01
+7,🍌Banana,0.60,Walmart,2021-01-01
+8,🥑Avocado,2.00,Walmart,2021-01-01
+1,🥛Milk,2.70,Walmart,2021-03-03
+2,🍞Bread,2.40,Walmart,2021-03-03
+3,🍎Apple,1.20,Walmart,2021-03-03
+4,🍊Orange,0.96,Walmart,2021-03-03
+5,🥕Carrot,0.75,Walmart,2021-03-03
+6,🍅Tomato,1.20,Walmart,2021-03-03
+7,🥔Potato,0.60,Walmart,2021-03-03
+8,🍓Strawberry,4.20,Walmart,2021-03-03
+9,🍌Banana,0.84,Walmart,2021-03-03
+10,🥑Avocado,2.80,Walmart,2021-03-03
+1,🍎Apple,1.68,Target,2021-05-06
+2,🍊Orange,1.34,Target,2021-05-06
+3,🥕Carrot,1.05,Target,2021-05-06
+4,🍅Tomato,1.68,Target,2021-05-06
+5,🥔Potato,0.84,Target,2021-05-06
+6,🍓Strawberry,5.88,Target,2021-05-06
+7,🍌Banana,1.18,Target,2021-05-06
+8,🥑Avocado,3.92,Target,2021-05-06
+1,🥛Milk,3.78,Walmart,2021-07-09
+2,🍞Bread,3.36,Walmart,2021-07-09
+3,🍎Apple,2.35,Walmart,2021-07-09
+4,🍊Orange,1.88,Walmart,2021-07-09
+5,🥕Carrot,1.47,Walmart,2021-07-09
+6,🍅Tomato,2.35,Walmart,2021-07-09
+7,🥔Potato,1.18,Walmart,2021-07-09
+8,🍓Strawberry,8.23,Walmart,2021-07-09
+9,🍌Banana,1.65,Walmart,2021-07-09
+10,🥑Avocado,5.49,Walmart,2021-07-09
+1,🍎Apple,3.29,Target,2021-09-08
+2,🍊Orange,2.64,Target,2021-09-08
+3,🥕Carrot,2.06,Target,2021-09-08
+4,🍅Tomato,3.29,Target,2021-09-08
+5,🥔Potato,1.64,Target,2021-09-08
+6,🍓Strawberry,14.51,Target,2021-09-08
+7,🍌Banana,2.91,Target,2021-09-08
+8,🥑Avocado,9.68,Target,2021-09-08
+1,🥛Milk,5.29,Whole Foods,2021-11-12
+2,🍞Bread,4.70,Whole Foods,2021-11-12
+3,🍎Apple,4.60,Whole Foods,2021-11-12
+4,🍊Orange,3.70,Whole Foods,2021-11-12
+5,🥕Carrot,2.89,Whole Foods,2021-11-12
+6,🍅Tomato,4.60,Whole Foods,2021-11-12
+7,🥔Potato,2.30,Whole Foods,2021-11-12
+8,🍓Strawberry,20.30,Whole Foods,2021-11-12
+9,🍌Banana,4.08,Whole Foods,2021-11-12
+10,🥑Avocado,13.55,Whole Foods,2021-11-12
+1,🍎Apple,6.44,Walmart,2022-01-15
+2,🍊Orange,5.18,Walmart,2022-01-15
+3,🥕Carrot,4.04,Walmart,2022-01-15
+4,🍅Tomato,8.12,Walmart,2022-01-15
+5,🥔Potato,3.22,Walmart,2022-01-15
+6,🍓Strawberry,28.42,Walmart,2022-01-15
+7,🍌Banana,7.18,Walmart,2022-01-15
+8,🥑Avocado,18.93,Walmart,2022-01-15
+1,🥛Milk,7.38,Target,2022-03-20
+2,🍞Bread,6.58,Target,2022-03-20
+3,🍎Apple,11.33,Target,2022-03-20
+4,🍊Orange,9.12,Target,2022-03-20
+5,🥕Carrot,7.12,Target,2022-03-20
+6,🍅Tomato,14.26,Target,2022-03-20
+7,🥔Potato,5.65,Target,2022-03-20
+8,🍓Strawberry,39.79,Target,2022-03-20
+9,🍌Banana,12.62,Target,2022-03-20
+10,🥑Avocado,26.44,Target,2022-03-20
+1,🍎Apple,19.93,Whole Foods,2022-05-23
+2,🍊Orange,16.01,Whole Foods,2022-05-23
+3,🥕Carrot,12.51,Whole Foods,2022-05-23
+4,🍅Tomato,25.13,Whole Foods,2022-05-23
+5,🥔Potato,9.91,Whole Foods,2022-05-23
+6,🍓Strawberry,55.70,Whole Foods,2022-05-23
+7,🍌Banana,22.19,Whole Foods,2022-05-23
+8,🥑Avocado,36.82,Whole Foods,2022-05-23
